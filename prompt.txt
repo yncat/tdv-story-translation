@@ -10,9 +10,13 @@
 優れた能力を持つエージェント。cloning malice プロジェクトの阻止のため、最初のエージェントとして派遣されたが、ミッションからの退却の際に敵に捕まり、5年間消息不明となっている。
 3. Lieutenant Orion (Orion)
 今回のゲームの主人公。空軍のエリート・エージェントで、今回の Munawar 奪還 & Cloning malice 阻止のため、ミッションに挑む。
-4. Turner (Turner)
+4. Rio (Rio)
+Orion とともに戦闘機に搭乗する。後部座席で支援を担当する。
+5. Turner (Turner)
 キャプテンとともに作戦を担当しているバックアップ・エージェント。トレーニングでのブリーフィングを担当する。キャプテンが不在になるときは、指揮権を委譲されることがある。
-5. Julius Brutus (Julius)
+6. Jennifer Larson (Larson)
+医療を担当。実はキャプテンと付き合っている。
+7. Julius Brutus (Julius)
 Cloning malice プロジェクトの親分で、このゲームのラスボス。 人口的にクローンソルジャーを生成し、世界を乗っ取ろうとしている。
-6. Colonel Trask (Trask)
+8. Colonel Trask (Trask)
 情報収集と作戦立案を担当する大佐。実は Brutus 側のスパイ。
